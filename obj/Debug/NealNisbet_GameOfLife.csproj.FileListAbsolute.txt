@@ -1,0 +1,8 @@
+C:\Users\admin E5530\OneDrive - City of Glasgow College\NealNisbet_GameOfLife\NealNisbet_GameOfLife\obj\Debug\NealNisbet_GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\admin E5530\OneDrive - City of Glasgow College\NealNisbet_GameOfLife\NealNisbet_GameOfLife\bin\Debug\NealNisbet_GameOfLife.exe.config
+C:\Users\admin E5530\OneDrive - City of Glasgow College\NealNisbet_GameOfLife\NealNisbet_GameOfLife\bin\Debug\NealNisbet_GameOfLife.xml
+C:\Users\admin E5530\OneDrive - City of Glasgow College\NealNisbet_GameOfLife\NealNisbet_GameOfLife\bin\Debug\NealNisbet_GameOfLife.exe
+C:\Users\admin E5530\OneDrive - City of Glasgow College\NealNisbet_GameOfLife\NealNisbet_GameOfLife\bin\Debug\NealNisbet_GameOfLife.pdb
+C:\Users\admin E5530\OneDrive - City of Glasgow College\NealNisbet_GameOfLife\NealNisbet_GameOfLife\obj\Debug\NealNisbet_GameOfLife.csprojAssemblyReference.cache
+C:\Users\admin E5530\OneDrive - City of Glasgow College\NealNisbet_GameOfLife\NealNisbet_GameOfLife\obj\Debug\NealNisbet_GameOfLife.exe
+C:\Users\admin E5530\OneDrive - City of Glasgow College\NealNisbet_GameOfLife\NealNisbet_GameOfLife\obj\Debug\NealNisbet_GameOfLife.pdb

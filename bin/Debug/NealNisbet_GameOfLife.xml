@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NealNisbet_GameOfLife</name>
+    </assembly>
+    <members>
+        <member name="M:NealNisbet_GameOfLife.GOL.#ctor(System.Int32[0:,0:],System.Int32,System.Int32)">
+            <summary>
+            empty constructor passing in the inherited variables from ruules
+            </summary>
+            <param name="grid"></param>
+            <param name="maxWidth"></param>
+            <param name="maxHeight"></param>
+        </member>
+        <member name="M:NealNisbet_GameOfLife.GOL.RunGame">
+            <summary>
+            runs the game based on the current rule set and saves it to new grid
+            </summary>
+            <returns>grid2</returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "F:NealNisbet_GameOfLife.Program.maxWidth" -->
+        <member name="M:NealNisbet_GameOfLife.Program.createGrid">
+            <summary>
+            create a new grid based on the settings defined above 
+            </summary>
+        </member>
+        <member name="F:NealNisbet_GameOfLife.Rules.rMaxW">
+            <summary>
+            protected variables for use in rules class
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:NealNisbet_GameOfLife.Rules.#ctor(System.Int32[0:,0:],System.Int32,System.Int32)" -->
+        <member name="M:NealNisbet_GameOfLife.Rules.GetNumNeighbours(System.Int32,System.Int32)">
+            <summary>
+            check the cell in relation to each cell roundabout it to determine if it is alive or dead
+            </summary>
+            <param name="w"></param>
+            <param name="h"></param>
+            <returns>number of neighbours for a cell</returns>
+        </member>
+        <member name="M:NealNisbet_GameOfLife.Rules.Run">
+            <summary>
+            run the game one generation causing the cells to live or die
+            </summary>
+        </member>
+        <member name="M:NealNisbet_GameOfLife.Rules.RunGame">
+            <summary>
+            creates a new array to store the current game array for comparison of the next generation
+            </summary>
+            <returns>int[,] new grid</returns>
+        </member>
+    </members>
+</doc>
